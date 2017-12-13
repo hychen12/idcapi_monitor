@@ -1,0 +1,21 @@
+{
+  "name": "idcapi_monitor",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "latest",
+    "rxjs": "latest"
+  },
+  "devDependencies": {}
+}
